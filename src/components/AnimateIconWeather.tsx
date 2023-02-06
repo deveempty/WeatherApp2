@@ -18,7 +18,7 @@ import MistDay from '../components/assets/icons/mist-day.svg'
 import MistNight from '../components/assets/icons/mist-night.svg'
 import Cloud from '../components/assets/icons/cloudy.svg'
 
-const iconMap = {
+const iconMap:any = {
 
     "01d": <img src={Day} alt="Day Icon" />,
     "01n": <img src={Night} alt="Night Icon" />,
