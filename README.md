@@ -13,6 +13,8 @@
   <img src="https://i.imgur.com/5KjxeZ4.gif"/>
 </p>
 
+<a href="https://weather-app2-liart.vercel.app/"><img alt="GitHub deployments" src="https://img.shields.io/github/deployments/deveempty/weatherapp2/production?label=vercel&logo=vercel&logoColor=white"></a>
+
 
 ## How To Use
 
